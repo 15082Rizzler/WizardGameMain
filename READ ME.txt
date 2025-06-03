@@ -1,0 +1,27 @@
+Control list
+
+WASD - Movement
+
+Left mouse button - Fires a firebolt
+
+, - Puts you on team 1
+
+. - Puts you on team 2
+
+(You need to be on a team to use the fireball. This is just a temporary team select solution I made for testing -Tom)
+
+1 - Casts fireball
+
+VERY IMPORTANT - READ BELOW
+
+I've got a plugin installed in this version of the game that could be helpful for further multiplayer refinement if we have time for it down the line.
+I have not used it in the code yet, but I'd recomend downloading the plugin so you don't have any issues loading up the project should you decide to
+do so.
+
+I've got both advanced sessions and steam advanced sessions installed in the project. When you unzip the file containing the plugins, open up your file
+browser and navigate to the 5.4 version of UE5 (the file path should look like this: C:\Program Files\Epic Games\UE_5.4\Engine\Plugins) or download
+it if you haven't already, and drop the folders contained within the zip ("AdvancedSessions" and "SteamAdvancedSessions") into the plugins file
+
+here's the link to the plugin zip file
+
+https://drive.google.com/file/d/134Z7kqiFGw--QxQDYVnz1NnO6WFACnq4/view
